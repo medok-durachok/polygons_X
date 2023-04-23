@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30002.166
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "!Многоугольники!", "!Многоугольники!\!Многоугольники!.csproj", "{D695535B-51C7-4074-9108-C434B727793D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D695535B-51C7-4074-9108-C434B727793D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D695535B-51C7-4074-9108-C434B727793D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D695535B-51C7-4074-9108-C434B727793D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D695535B-51C7-4074-9108-C434B727793D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8B16CA23-0402-48AA-91D8-F443C2B601E0}
+	EndGlobalSection
+EndGlobal
